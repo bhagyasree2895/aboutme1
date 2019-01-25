@@ -13,3 +13,7 @@ This webpage is to play around with GitHub commands and to learn how to publish 
 1. [Visual studio](https://code.visualstudio.com/) - Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring.
 1. [Github](https://github.com/bhagyasree2895/) - is a online service used to host the created repositories. We can also create, edit, clone, fork and publish the repositories.
 1. [CSS](https://html-css-js.com/css/) - To enhance look and feel of Web Page.
+## Recommended Resources
+- [W3 Schools](https://www.w3schools.com/whatis/whatis_github.asp)
+- [Youtube](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [Github guide](https://guides.github.com/activities/hello-world/)
