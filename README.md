@@ -17,3 +17,7 @@ This webpage is to play around with GitHub commands and to learn how to publish 
 - [W3 Schools](https://www.w3schools.com/whatis/whatis_github.asp)
 - [Youtube](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [Github guide](https://guides.github.com/activities/hello-world/)
+## Contributors
+I am Bhagya Sree Chanda, a newly joined student from Warangal, India here in Northwest Missouri State University admitted in spring-2019 batch to pursue my graduation in Applied Computer Science program(MS-ACS). I have been enrolled in Object Oriented Programming, Advanced Database topics, Web Apps course for this semester.I had done my under graduation in Computer Science & Engineering from GITAM University, Hyderabad. I have worked for Rockwell Collins as an Associate Software engineer for around 1.8 years.
+
+!([For Image](https://github.com/bhagyasree2895/aboutme/blob/master/IMG-2038.PNG)
